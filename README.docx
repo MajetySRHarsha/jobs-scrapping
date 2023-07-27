@@ -16,8 +16,8 @@ In the command Promt
     python app.py
 
 You can hit the URL's
-http://127.0.0.1:5000/ - For getting all the Jobs with out ay filter 
-http://127.0.0.1:5000/benz-For getting the Jobs from Benz
-http://127.0.0.1:5000/Airbnb-For getting the jobs from Airbnb
-http://127.0.0.1:5000/intern-For getting the Jobs which are intern
-http://127.0.0.1:5000/FullTime-For getting the Jobs which are type Full time
+http://127.0.0.1:5000/          - For getting all the Jobs with out ay filter 
+http://127.0.0.1:5000/benz      -For getting the Jobs from Benz
+http://127.0.0.1:5000/Airbnb    -For getting the jobs from Airbnb
+http://127.0.0.1:5000/intern    -For getting the Jobs which are intern
+http://127.0.0.1:5000/FullTime  -For getting the Jobs which are type Full time
