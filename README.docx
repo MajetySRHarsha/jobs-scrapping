@@ -1,0 +1,16 @@
+Job Scrapping for the Benz and Airbnb
+
+How to run the application..?
+Create a Virtual Environment 
+  In Windows:
+  python -m venv myenv
+  To activate:
+  myenv\Scripts\activate
+
+    
+Clone the Gitrepository
+Run the command 
+    pip install -r requirements.txt
+In the command Promt
+    Run the Command
+    python app.py
